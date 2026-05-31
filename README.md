@@ -340,9 +340,6 @@ These variables provide the strongest predictive signals for customer churn.
 
 ---
 
-
----
-
 ## Future Enhancements
 
 * Hyperparameter tuning using GridSearchCV
