@@ -340,31 +340,6 @@ These variables provide the strongest predictive signals for customer churn.
 
 ---
 
-## Project Structure
-
-```text
-Fintech-Customer-Risk-Behaviour-Intelligence/
-│
-├── data/
-│   └── BankChurners.csv
-│
-├── notebooks/
-│   └── Fintech_Customer_Risk_Behaviour_Intelligence.ipynb
-│
-├── images/
-│   ├── churn_distribution.png
-│   ├── elbow_method.png
-│   ├── roc_curve.png
-│   ├── feature_importance.png
-│   └── cluster_profile.png
-│
-├── report/
-│   └── Fintech_Customer_Risk_Behaviour_Report.pdf
-│
-├── README.md
-│
-└── requirements.txt
-```
 
 ---
 
